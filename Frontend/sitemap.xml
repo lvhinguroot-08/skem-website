@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://skem.in/</loc>
+    <lastmod>2026-10-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+
+    <!-- Project & Gallery Real Images -->
+    <image:image>
+      <image:loc>https://skem.in/assets/projects/bliss/3.webp</image:loc>
+      <image:title>Bliss Waterpark Multi-Level Steel Launch Tower Platform</image:title>
+      <image:caption>Aerial perspective of multi-deck structural steel launch platform and spiral flume framework at Bliss Waterpark fabricated by SK Engineering and Manufacturing.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://skem.in/assets/projects/bliss/2.webp</image:loc>
+      <image:title>Bliss Waterpark Helical Slide Radial Pipe Truss Framework</image:title>
+      <image:caption>Curved structural steel supports and pipe rings for helical water slides fabricated by SK Engineering and Manufacturing in Gujarat.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://skem.in/assets/projects/bliss/1.jpeg</image:loc>
+      <image:title>Bliss Waterpark Resort Worksite Assembly and Tower Erection</image:title>
+      <image:caption>Worksite panorama showing foundational columns and structural erection during assembly at Bliss Waterpark.</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://skem.in/assets/projects/ongc/14.jpeg</image:loc>
+      <image:title>ONGC Lattice Flare Stack Tower and Elevated Pipeline Gantry Trestle</image:title>
+      <image:caption>Tall vertical flare stack tower with elevated pipeline bridge trestles at ONGC project facility.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://skem.in/assets/projects/ongc/4.jpeg</image:loc>
+      <image:title>SKEM Field Workforce and Industrial Plant Skids at ONGC Facility</image:title>
+      <image:caption>Technical workforce of S.K Engineering and Manufacturing on-site at process separation facility.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://skem.in/assets/projects/ongc/9.jpeg</image:loc>
+      <image:title>ONGC High-Pressure Process Piping System and Control Valves</image:title>
+      <image:caption>Safety-yellow gas piping network with control valves, actuators, and gauges fabricated and installed for ONGC.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://skem.in/assets/projects/ongc/1.jpeg</image:loc>
+      <image:title>ONGC Multi-Section Steel Lattice Flare Stack Vertical Assembly</image:title>
+      <image:caption>Multi-section steel lattice flare stack erected on concrete foundations at ONGC site.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://skem.in/assets/projects/ongc/3.jpeg</image:loc>
+      <image:title>ONGC Industrial Fluid Manifold Skid and Pumping Array</image:title>
+      <image:caption>Industrial fluid manifold array under overhead crane gantry shed at ONGC facility.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://skem.in/assets/projects/ongc/7.jpeg</image:loc>
+      <image:title>ONGC Process Line Instrumentation and Transmitter Installation</image:title>
+      <image:caption>Precision probe and transmitter installation on industrial process piping line.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://skem.in/assets/projects/ongc/10.jpeg</image:loc>
+      <image:title>ONGC Oil and Gas Process Separation Facility Installation</image:title>
+      <image:caption>Separation vessels, yellow piping headers, and cabling drums during installation.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://skem.in/assets/projects/ongc/2.jpeg</image:loc>
+      <image:title>ONGC Overhead Pipeline Trestle Bridge and Structural Steel Supports</image:title>
+      <image:caption>Steel structural trestle towers supporting process line at ONGC site.</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://skem.in/assets/projects/structure/1.jpeg</image:loc>
+      <image:title>Heavy Industrial Steel Truss Grinding and Welding</image:title>
+      <image:caption>Fabricator finishing structural steel trusses inside the workshop at SK Engineering and Manufacturing in Mahesana.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://skem.in/assets/projects/structure/2.jpeg</image:loc>
+      <image:title>Industrial Shed Structural Columns and Crane Runway Framing</image:title>
+      <image:caption>Heavy load-bearing columns and overhead crane runway support framing in fabrication shop.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://skem.in/assets/projects/structure/3.jpeg</image:loc>
+      <image:title>Outdoor Layout and Assembly Yard at SKEM Mahesana</image:title>
+      <image:caption>Heavy welding sets, piping spools, and fabrication lines in SKEM facility yard in Mahesana, Gujarat.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://skem.in/assets/projects/structure/4.jpeg</image:loc>
+      <image:title>SKEM Facility Yard with Heavy Transport Rigs</image:title>
+      <image:caption>Wide perspective of SKEM facility yard with heavy mobile equipment and fabrication rigs.</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://skem.in/assets/projects/tank/1.jpeg</image:loc>
+      <image:title>Truck-Mounted Cylindrical Industrial Process Storage Tank</image:title>
+      <image:caption>Chassis-mounted cylindrical pressure tank unit with fluid manifold and toolboxes fabricated by SK Engineering and Manufacturing.</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://skem.in/assets/projects/bunk%20house/1.jpeg</image:loc>
+      <image:title>52 M3 Mobile Frac Storage Tank Unit for B Vishal Oil and Energy</image:title>
+      <image:caption>Heavy mobile storage tank with reinforced corrugated side walls and transport chassis fabricated by SK Engineering and Manufacturing.</image:caption>
+    </image:image>
+
+    <!-- Worksite Videos -->
+    <video:video>
+      <video:thumbnail_loc>https://skem.in/assets/poster-video-erection.jpg</video:thumbnail_loc>
+      <video:title>Lattice Flare Stack Crane Erection on Site</video:title>
+      <video:description>On-site high-elevation crane lifting and vertical alignment of heavy industrial steel lattice flare tower sections by SK Engineering and Manufacturing.</video:description>
+      <video:content_loc>https://skem.in/assets/projects/ongc/WhatsApp%20Video%202026-10-04%20at%207.21.00%20PM.mp4</video:content_loc>
+      <video:publication_date>2026-10-04T19:21:00+05:30</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+
+    <video:video>
+      <video:thumbnail_loc>https://skem.in/assets/poster-video-welding.jpg</video:thumbnail_loc>
+      <video:title>Precision Structural Welding and Fabrication Workshop</video:title>
+      <video:description>High-amperage structural steel joinery, weld beveling, and heavy section fabrication inside the SKEM workshop in Mahesana, Gujarat.</video:description>
+      <video:content_loc>https://skem.in/assets/WhatsApp%20Video%202026-10-04%20at%207.21.05%20PM.mp4</video:content_loc>
+      <video:publication_date>2026-10-04T19:21:05+05:30</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+
+    <video:video>
+      <video:thumbnail_loc>https://skem.in/assets/poster-video-waterpark.jpg</video:thumbnail_loc>
+      <video:title>Amusement Park Structural Steel Tower &amp; Slide Assembly</video:title>
+      <video:description>Structural steel erection and spiral flume launch platform assembly for Bliss Waterpark by SK Engineering and Manufacturing.</video:description>
+      <video:content_loc>https://skem.in/assets/WhatsApp%20Video%202026-10-04%20at%207.21.04%20PM.mp4</video:content_loc>
+      <video:publication_date>2026-10-04T19:21:04+05:30</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+
+    <video:video>
+      <video:thumbnail_loc>https://skem.in/assets/poster-video-industrial.jpg</video:thumbnail_loc>
+      <video:title>Heavy Industrial Plant &amp; Piping Fabrication Yard</video:title>
+      <video:description>Fabrication, assembly, and quality inspection of heavy industrial plant structures and piping skids at SKEM yard in Mahesana, Gujarat.</video:description>
+      <video:content_loc>https://skem.in/assets/WhatsApp%20Video%202026-10-04%20at%207.21.03%20PM.mp4</video:content_loc>
+      <video:publication_date>2026-10-04T19:21:03+05:30</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+</urlset>
